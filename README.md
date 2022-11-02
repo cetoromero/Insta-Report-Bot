@@ -20,7 +20,7 @@ WINDOWS
 1. Open cmd in the tool directary folder
 2. Install python 3
 3. Run "pip install -r requirements.txt"
-4. Run "python reportbot.pyc"
+4. Run "python reportbot.py"
 
 ANDROID (Termux)
 
