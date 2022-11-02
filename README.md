@@ -4,7 +4,7 @@ It uses multi threading, therefore it reports very fast.
 This tool is strongly recommended for educational purpose.
 
 
-<h3 align="center">CONTACT ME ON TELEGRAM:- https://t.me/daredevilkinng</h3>
+<h3 align="center">For password ping me there won't be any charges for that :- https://t.me/daredevilkinng</h3>
 
 <h3 align="center">For intresting tools and scripts visit channel :- https://t.me/teleprotools</h3>
 
