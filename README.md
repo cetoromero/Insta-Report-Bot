@@ -6,6 +6,8 @@ This tool is strongly recommended for educational purpose.
 
 <h3 align="center">CONTACT ME ON TELEGRAM:- https://t.me/daredevilkinng</h3>
 
+<h3 align="center">For intresting tools and scripts visit channel :- https://t.me/teleprotools</h3>
+
 <h3 align="center">Support</h3><a href="https://t.me/daredevilkinng"><img src="https://img.shields.io/badge/Contact%20Owner-red.svg?logo=Telegram"></a>
 
 
