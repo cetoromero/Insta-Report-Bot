@@ -1,14 +1,14 @@
 
 Insta Report Is a tool which reports a targeted instagram account. 
 It uses multi threading, therefore it reports very fast. 
-This tool is strongly recommended for educational purpose.
+This tool is strongly recommended for educational purpose. Please don't use this as for rivalry weapon
 
 
 <h3 align="center">For password ping me :- https://t.me/daredevilkinng</h3>
 
 <h3 align="center">Price is simple 25$</h3>
 
-<h3 align="center">For intresting tools and scripts visit channel :- https://t.me/teleprotools</h3>
+<h3 align="center">For more intresting tools and scripts visit channel :- https://t.me/teleprotools</h3>
 
 <h3 align="center">Support</h3><a href="https://t.me/daredevilkinng"><img src="https://img.shields.io/badge/Contact%20Owner-red.svg?logo=Telegram"></a>
 
