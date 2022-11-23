@@ -32,6 +32,16 @@ ANDROID (Termux)
 4. Run "python report_bot.pyc"
 
 
+<p align="center">
+  Click On YouTube Icon for Demo/Instructional Videos of Bot
+</p>
+<p align="center">
+  <a href="https://youtu.be/s-z1Yhs8usQ">
+    <img src="https://www.iconsdb.com/icons/preview/red/youtube-4-xxl.png" width="40" height="40">
+  </a>
+</p>
+
+
 
 <h3 align="center">Visitors Counts👀</h3>
 <a href="https://github.com/daredevilkinng/Insta-Report-Bot"><img alt="Cute Count" 
