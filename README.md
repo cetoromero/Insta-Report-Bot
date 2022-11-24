@@ -8,6 +8,15 @@
 
 <h3 align="center">Price is simple 25$</h3>
 
+<p align="center">
+  Click On YouTube Icon for Demo/Instructional Videos of Bot
+</p>
+<p align="center">
+  <a href="https://youtu.be/s-z1Yhs8usQ">
+    <img src="https://www.iconsdb.com/icons/preview/red/youtube-4-xxl.png" width="40" height="40">
+  </a>
+</p>
+
 <h3 align="center">For more intresting tools and scripts visit channel :- https://t.me/teleprotools</h3>
 
 <h3 align="center">Support</h3><a href="https://t.me/daredevilkinng"><img src="https://img.shields.io/badge/Contact%20Owner-red.svg?logo=Telegram"></a>
@@ -30,16 +39,6 @@ ANDROID (Termux)
 2. install python
 3. Run "pip install -r requirements.txt" 
 4. Run "python report_bot.pyc"
-
-
-<p align="center">
-  Click On YouTube Icon for Demo/Instructional Videos of Bot
-</p>
-<p align="center">
-  <a href="https://youtu.be/s-z1Yhs8usQ">
-    <img src="https://www.iconsdb.com/icons/preview/red/youtube-4-xxl.png" width="40" height="40">
-  </a>
-</p>
 
 
 
