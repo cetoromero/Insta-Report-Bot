@@ -6,7 +6,6 @@
 
 <h3 align="center">For password ping me :- https://t.me/daredevilkinng</h3>
 
-<h3 align="center">Price is simple 25$</h3>
 
 <p align="center">
   Click On YouTube Icon for Demo/Instructional Videos of Bot
