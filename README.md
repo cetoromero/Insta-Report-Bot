@@ -3,6 +3,17 @@
 # It uses multi threading, therefore it reports very fast. 
 # This tool is strongly recommended for educational purpose. Please don't use this as for rivalry weapon
 
+• INSTAGRAM REPORT BOT PRO
+
+✓ Lifetime Access
+✓ Free Updates
+✓ Price is only 35$ for lifetime only serious and genuine clients are welcome no time pass please.
+✓ Send Unlimited Anonymous Spams.
+✓ Also can Import unlimited proxies.
+✓ Bann will be done in just 20 minutes no matter how many followers account have.
+✓ Open source code to developers for modifications.
+✓ Free support you can ping anytime.
+
 
 <h3 align="center">For password ping me :- https://t.me/daredevilkinng</h3>
 
